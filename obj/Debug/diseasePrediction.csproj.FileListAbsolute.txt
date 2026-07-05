@@ -1,0 +1,126 @@
+C:\Users\win7\Desktop\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+C:\Users\win7\Desktop\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+C:\Users\win7\Desktop\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+C:\Users\win7\Desktop\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2018-2019\Projects\Generic Disease Prediction\Others\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2018-2019\Projects\Generic Disease Prediction\Others\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2018-2019\Projects\Generic Disease Prediction\Others\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2018-2019\Projects\Generic Disease Prediction\Others\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2018-2019\Projects\Generic Disease Prediction\Others\Project Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2018-2019\Projects\Generic Disease Prediction\Others\Project Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2018-2019\Projects\Generic Disease Prediction\Others\Project Copy\diseasePrediction\diseasePrediction\bin\Emails.dll
+D:\Academic 2018-2019\Projects\Generic Disease Prediction\Others\Project Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2018-2019\Projects\Generic Disease Prediction\Others\Project Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2018-2019\Projects\Generic Disease Prediction\Others\Project Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2018-2019\Projects\Generic Disease Prediction\Others\Shivani\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2018-2019\Projects\Generic Disease Prediction\Others\Shivani\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2018-2019\Projects\Generic Disease Prediction\Others\Shivani\diseasePrediction\diseasePrediction\bin\Emails.dll
+D:\Academic 2018-2019\Projects\Generic Disease Prediction\Others\Shivani\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2018-2019\Projects\Generic Disease Prediction\Others\Shivani\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2018-2019\Projects\Generic Disease Prediction\Others\Shivani\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2019-2020\Projects\NIE\Diabetes Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2019-2020\Projects\NIE\Diabetes Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2019-2020\Projects\NIE\Diabetes Project\diseasePrediction\diseasePrediction\bin\Emails.dll
+D:\Academic 2019-2020\Projects\NIE\Diabetes Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2019-2020\Projects\NIE\Diabetes Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2019-2020\Projects\MITM\Diabetes Project\Diabetes Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2019-2020\Projects\MITM\Diabetes Project\Diabetes Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2019-2020\Projects\MITM\Diabetes Project\Diabetes Project\diseasePrediction\diseasePrediction\bin\Emails.dll
+D:\Academic 2019-2020\Projects\MITM\Diabetes Project\Diabetes Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2019-2020\Projects\MITM\Diabetes Project\Diabetes Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2019-2020\Projects\MITM\Diabetes Project\Diabetes Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2019-2020\Projects\MITM\Smoking Time Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2019-2020\Projects\MITM\Smoking Time Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2019-2020\Projects\MITM\Smoking Time Project\diseasePrediction\diseasePrediction\bin\Emails.dll
+D:\Academic 2019-2020\Projects\MITM\Smoking Time Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2019-2020\Projects\MITM\Smoking Time Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2019-2020\Projects\MITM\Smoking Time Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2019-2020\Projects\NIE\Thyroid Project\New\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2019-2020\Projects\NIE\Thyroid Project\New\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2019-2020\Projects\NIE\Thyroid Project\New\diseasePrediction\diseasePrediction\bin\Emails.dll
+D:\Academic 2019-2020\Projects\NIE\Thyroid Project\New\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2019-2020\Projects\NIE\Thyroid Project\New\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2019-2020\Projects\NIE\Thyroid Project\New\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2019-2020\Projects\PES\Thyroid Project\Yashwini Final Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2019-2020\Projects\PES\Thyroid Project\Yashwini Final Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2019-2020\Projects\PES\Thyroid Project\Yashwini Final Copy\diseasePrediction\diseasePrediction\bin\Emails.dll
+D:\Academic 2019-2020\Projects\PES\Thyroid Project\Yashwini Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2019-2020\Projects\PES\Thyroid Project\Yashwini Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2019-2020\Projects\PES\Thyroid Project\Yashwini Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2019-2020\Projects\PES\Thyroid Project\Yashaswini Final Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2019-2020\Projects\PES\Thyroid Project\Yashaswini Final Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2019-2020\Projects\PES\Thyroid Project\Yashaswini Final Copy\diseasePrediction\diseasePrediction\bin\Emails.dll
+D:\Academic 2019-2020\Projects\PES\Thyroid Project\Yashaswini Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2019-2020\Projects\PES\Thyroid Project\Yashaswini Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2019-2020\Projects\PES\Thyroid Project\Yashaswini Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2020-2021\Projects\SJCE\Cardiac Disease\Others\Cardiac Partial Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2020-2021\Projects\SJCE\Cardiac Disease\Others\Cardiac Partial Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2020-2021\Projects\SJCE\Cardiac Disease\Others\Cardiac Partial Copy\diseasePrediction\diseasePrediction\bin\Emails.dll
+D:\Academic 2020-2021\Projects\SJCE\Cardiac Disease\Others\Cardiac Partial Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2020-2021\Projects\SJCE\Cardiac Disease\Others\Cardiac Partial Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2020-2021\Projects\SJCE\Cardiac Disease\Others\Cardiac Partial Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2020-2021\Projects\SJCE\Cardiac Disease\Others\Cardiac Half Algorithm\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2020-2021\Projects\SJCE\Cardiac Disease\Others\Cardiac Half Algorithm\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2020-2021\Projects\SJCE\Cardiac Disease\Others\Cardiac Half Algorithm\diseasePrediction\diseasePrediction\bin\Emails.dll
+D:\Academic 2020-2021\Projects\SJCE\Cardiac Disease\Others\Cardiac Half Algorithm\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2020-2021\Projects\SJCE\Cardiac Disease\Others\Cardiac Half Algorithm\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2020-2021\Projects\SJCE\Cardiac Disease\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2020-2021\Projects\SJCE\Cardiac Disease\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2020-2021\Projects\SJCE\Cardiac Disease\diseasePrediction\diseasePrediction\bin\Emails.dll
+D:\Academic 2020-2021\Projects\SJCE\Cardiac Disease\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2020-2021\Projects\SJCE\Cardiac Disease\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2020-2021\Projects\SJCE\Cardiac Disease\Cardiac Final Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2020-2021\Projects\SJCE\Cardiac Disease\Cardiac Final Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2020-2021\Projects\SJCE\Cardiac Disease\Cardiac Final Copy\diseasePrediction\diseasePrediction\bin\Emails.dll
+D:\Academic 2020-2021\Projects\SJCE\Cardiac Disease\Cardiac Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2020-2021\Projects\SJCE\Cardiac Disease\Cardiac Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2020-2021\Projects\SJCE\Lung Cancer\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2020-2021\Projects\SJCE\Lung Cancer\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2020-2021\Projects\SJCE\Lung Cancer\diseasePrediction\diseasePrediction\bin\Emails.dll
+D:\Academic 2020-2021\Projects\SJCE\Lung Cancer\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2020-2021\Projects\SJCE\Lung Cancer\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2020-2021\Projects\SJCE\Lung Cancer\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2020-2021\Projects\SJCE\Lung Cancer\Lung Cancer Final Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2020-2021\Projects\SJCE\Lung Cancer\Lung Cancer Final Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2020-2021\Projects\SJCE\Lung Cancer\Lung Cancer Final Copy\diseasePrediction\diseasePrediction\bin\Emails.dll
+D:\Academic 2020-2021\Projects\SJCE\Lung Cancer\Lung Cancer Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2020-2021\Projects\SJCE\Lung Cancer\Lung Cancer Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2020-2021\Projects\SJCE\Lung Cancer\Lung Cancer Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2021-2022\PROJECTS\PES\Lung Cancer\Lung Cancer Final Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2021-2022\PROJECTS\PES\Lung Cancer\Lung Cancer Final Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2021-2022\PROJECTS\PES\Lung Cancer\Lung Cancer Final Copy\diseasePrediction\diseasePrediction\bin\Emails.dll
+D:\Academic 2021-2022\PROJECTS\PES\Lung Cancer\Lung Cancer Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2021-2022\PROJECTS\PES\Lung Cancer\Lung Cancer Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2021-2022\PROJECTS\PES\Lung Cancer\Lung Cancer Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2021-2022\PROJECTS\VVCE\Sepsis Prediction\Sepsis Final Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2021-2022\PROJECTS\VVCE\Sepsis Prediction\Sepsis Final Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2021-2022\PROJECTS\VVCE\Sepsis Prediction\Sepsis Final Copy\diseasePrediction\diseasePrediction\bin\Emails.dll
+D:\Academic 2021-2022\PROJECTS\VVCE\Sepsis Prediction\Sepsis Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2021-2022\PROJECTS\VVCE\Sepsis Prediction\Sepsis Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2021-2022\PROJECTS\VVCE\Sepsis Prediction\Sepsis Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2021-2022\PROJECTS\VVCE\Sepsis Prediction\Sepsis Final Copy NEW\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2021-2022\PROJECTS\VVCE\Sepsis Prediction\Sepsis Final Copy NEW\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2021-2022\PROJECTS\VVCE\Sepsis Prediction\Sepsis Final Copy NEW\diseasePrediction\diseasePrediction\bin\Emails.dll
+D:\Academic 2021-2022\PROJECTS\VVCE\Sepsis Prediction\Sepsis Final Copy NEW\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2021-2022\PROJECTS\VVCE\Sepsis Prediction\Sepsis Final Copy NEW\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2021-2022\PROJECTS\VVCE\Sepsis Prediction\Sepsis Final Copy NEW\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2021-2022\PROJECTS\VVCE\Sepsis Prediction\Sepsis Final Copy 4 Algorithms\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2021-2022\PROJECTS\VVCE\Sepsis Prediction\Sepsis Final Copy 4 Algorithms\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2021-2022\PROJECTS\VVCE\Sepsis Prediction\Sepsis Final Copy 4 Algorithms\diseasePrediction\diseasePrediction\bin\Emails.dll
+D:\Academic 2021-2022\PROJECTS\VVCE\Sepsis Prediction\Sepsis Final Copy 4 Algorithms\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2021-2022\PROJECTS\VVCE\Sepsis Prediction\Sepsis Final Copy 4 Algorithms\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\Sepsis Project\Sepsis Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\Sepsis Project\Sepsis Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\Sepsis Project\Sepsis Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\Sepsis Project\Sepsis Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\Sepsis Project\Sepsis Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\Sepsis Project\Sepsis Project FINAL\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\Sepsis Project\Sepsis Project FINAL\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\Sepsis Project\Sepsis Project FINAL\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\Sepsis Project\Sepsis Project FINAL\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\Sepsis Project\Sepsis Project FINAL\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.csprojResolveAssemblyReference.cache
+C:\Sepsis Project FINAL\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+C:\Sepsis Project FINAL\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+C:\Sepsis Project FINAL\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+C:\Sepsis Project FINAL\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+C:\Sepsis Project FINAL\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.csprojResolveAssemblyReference.cache
